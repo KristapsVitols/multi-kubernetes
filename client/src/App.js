@@ -10,7 +10,7 @@ class App extends Component {
             <Router>
                 <div className="App">
                     <header className="App-header">
-                        <h1>Fib calculator</h1>
+                        <h1>Fib calculator version kubernetes</h1>
                         <Link to="/">Home</Link>
                         <Link to="/otherpage">Other Page</Link>
                     </header>
