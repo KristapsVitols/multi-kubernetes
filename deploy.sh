@@ -5,7 +5,6 @@ docker build -t kristapsvitols/multi-worker:latest -t kristapsvitols/multi-worke
 docker push kristapsvitols/multi-client:latest
 docker push kristapsvitols/multi-server:latest
 docker push kristapsvitols/multi-worker:latest
-
 docker push kristapsvitols/multi-client:$SHA
 docker push kristapsvitols/multi-server:$SHA
 docker push kristapsvitols/multi-worker:$SHA
